@@ -1,11 +1,4 @@
-Got it — here is a **100% clean, ready-to-copy README.md file**
-👉 No extra formatting issues
-👉 No broken blocks
-👉 Just copy → paste → commit
 
----
-
-```md
 # 🚀 HireFlow – Smart Job Portal
 
 A full-stack job portal application designed to connect job seekers with recruiters through a modern and streamlined platform.
