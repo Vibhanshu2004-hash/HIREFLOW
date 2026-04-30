@@ -31,7 +31,7 @@ MongoDB (Mongoose)
 Authentication
 NextAuth.js (JWT-based)
 📁 Project Structure
-HIREFLOW/
+# HIREFLOW/
 │
 ├── frontend/
 │   ├── app/
